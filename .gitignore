@@ -1,2 +1,4 @@
 .github
 .venv
+.user_dir
+__pycache__/
