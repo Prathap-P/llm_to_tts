@@ -1,0 +1,29 @@
+# PyTorch (adjust for your CUDA version)
+torch==2.0.1
+torchaudio==2.0.2
+
+# ESPnet
+espnet==202301
+espnet-model-zoo==0.1.7
+espnet-tts-frontend==0.0.3
+
+# Core dependencies
+numpy==1.23.5
+scipy==1.10.1
+librosa==0.10.0
+soundfile==0.12.1
+resampy==0.4.2
+pyyaml==6.0
+h5py==3.8.0
+kaldiio==2.18.0
+
+# Text processing
+g2p-en==2.1.0
+
+# Utilities
+matplotlib==3.7.1
+tensorboard==2.13.0
+editdistance==0.6.2
+configargparse==1.5.3
+typeguard==2.13.3
+sentencepiece==0.1.99

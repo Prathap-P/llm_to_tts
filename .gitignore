@@ -2,3 +2,5 @@
 .venv
 .user_dir
 __pycache__/
+.fastspeech_tts_venv
+.kokoro_tts_venv
