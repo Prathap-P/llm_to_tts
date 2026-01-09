@@ -4,3 +4,4 @@
 __pycache__/
 .fastspeech_tts_venv
 .kokoro_tts_venv
+.DS_Store
